@@ -62,9 +62,9 @@ Insert about me
 
 ---
 ### Jorge Billini
-<img src='' width='150'>
+<img src='images/Jorge.JPG' width='150'>
 
-Insert about me
+Insert interesting text right here 
 
 ---
 ### Victoria Buchanan
